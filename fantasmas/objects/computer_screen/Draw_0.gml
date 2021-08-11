@@ -1,0 +1,1 @@
+draw_self_with_bjort_shader();

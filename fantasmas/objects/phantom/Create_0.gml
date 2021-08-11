@@ -1,0 +1,10 @@
+floating_speed = 4;
+size = .25;
+current_size = size;
+growth_speed = .025;
+shrink_speed = .025;
+vanishing_speed = .01;
+swallow_direction = 1;
+randomize();
+image_yscale = size;
+image_xscale = size;
